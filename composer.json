@@ -50,7 +50,7 @@
     "extra": {
         "component": "package",
         "branch-alias": {
-            "dev-master": "8.0.x-dev"
+            "dev-8.x": "8.0-dev"
         },
         "laravel": {
             "providers": [
