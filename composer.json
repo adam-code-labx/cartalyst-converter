@@ -49,9 +49,6 @@
     },
     "extra": {
         "component": "package",
-        "branch-alias": {
-            "dev-8.x": "8.0-dev"
-        },
         "laravel": {
             "providers": [
                 "Cartalyst\\Converter\\Laravel\\ConverterServiceProvider"
